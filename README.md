@@ -1,3 +1,3 @@
 # Hello-World
 Repositório Iniciante
-Estou iniciando na programação, querendo aprender sobre versionamento do código.
+Eu estou iniciando na programação e tenho muita coisa para aprender...
